@@ -319,7 +319,7 @@ export const App = () => {
           <CDNIcon name="glyph_ticket-star_m" />
 
           <Typography.Text view="primary-medium">
-            Ваш кэшбэк - ваш ключ к миллионам
+            Ваш кэшбэк — ваш ключ к миллионам
           </Typography.Text>
         </div>
       </div>
